@@ -6,7 +6,7 @@ Python project that filters the right candidate for the company according to the
 
 ![Capture](https://user-images.githubusercontent.com/55802357/90982806-65d49e00-e587-11ea-969e-0514354adcfe.PNG)
 
-2)Applicatiom is rejected due to keywords donot match with job description
+2)Application is rejected due to keywords donot match with job description
 
 ![Capture2](https://user-images.githubusercontent.com/55802357/90982809-6705cb00-e587-11ea-9c9f-ba4327637079.PNG)
 
